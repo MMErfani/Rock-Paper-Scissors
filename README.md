@@ -1,2 +1,6 @@
 # Rock-Paper-Scissors
-This is a funny game!
+بازی معروف سنگ کاغذ قیچی
+
+
+This is a funny game! try it!
+
